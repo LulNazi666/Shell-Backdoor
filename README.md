@@ -21,6 +21,18 @@ Everything here is purely made by our brains. We're copying some functionality f
     * Textarea with line number
     * No scan google or other hacker
 
+* [➤ 22XploiterCrew+Priv8-Shellv1.1](https://github.com/22XploiterCrew-Team/Shell-Backdoor/blob/main/mini-shell-v1.1.php)
+  * Feature
+    * Rename Folder/File
+    * Delete Folder/File
+    * Edit File
+    * Upload File
+  * Excellence
+    * Display Responsive
+    * Hightlight Code
+    * Textarea with line number
+    * No scan google or other hacker
+
 ### ➤  Excellence
 These are some of the advantages we already have and we don't yet have
 * [x] No Logger
